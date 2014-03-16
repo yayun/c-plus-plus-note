@@ -4,7 +4,7 @@ TARGET = SMTPEmail
 TEMPLATE = app
 
 
-SOURCES +=test1.cpp\
+SOURCES +=main.cpp\
     src/emailaddress.cpp \
     src/mimeattachment.cpp \
     src/mimefile.cpp \
